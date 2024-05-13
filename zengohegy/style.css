@@ -23,6 +23,7 @@ body{
 #imageright img{
     max-width: 200px;
     width: auto;
+	border-radius: 20px 20px 0px 0px;
 }
 #imageleft{
     float: left;
@@ -37,6 +38,7 @@ body{
 #imageleft img{   
 	max-width: 300px;
     width: auto;
+	border-radius: 20px 20px 0px 0px;
 }
 .kepszoveg{
 	font-weight: bold;
